@@ -1,7 +1,7 @@
 # 41ThousandFastFingers
 Browser automation/web scraping script to go speedy on 10 fast fingers
 
-###Setup
+### Setup
 **Windows**
 
 	virtualenv venv
@@ -14,5 +14,5 @@ Browser automation/web scraping script to go speedy on 10 fast fingers
 	source venv/bin/activate
 	pip install -r requirements.txt
 
-##Running Script
+### Running Script
 	python 41fastfingers.py
